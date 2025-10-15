@@ -9,8 +9,8 @@ proyectos y mis intereses.
 * Nombre: Misael Bohorquez Montes
 * Ocupación: Estudiante de ingeniería en sistemas
 * Lugar de residencia: Guayaquil, Ecuador
-* Sitio web: [Tu sitio web]
+* Sitio web: 
 ## Proyectos
-* [Lista de tus proyectos]
+
 ## Intereses
-* [Lista de tus intereses]
+
